@@ -1,0 +1,1 @@
+{ "meta": { "title": "Chat performance", "description": "Skips layout and paint for off-screen chat rows and pauses animations while the page is hidden." } }

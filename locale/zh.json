@@ -1,0 +1,1 @@
+{ "meta": { "title": "聊天性能优化", "description": "跳过视口外聊天行的布局与绘制，页面隐藏时暂停动画，降低内存与 WindowServer 占用。" } }
