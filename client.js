@@ -2,7 +2,6 @@ window.__ModuleLoader__.load({
   id: '@local/perf-css',
   factory() {
     const CSS = `
-[data-chat-flow-key]:not([data-chat-windowed]) { content-visibility: auto; contain-intrinsic-size: auto 240px; padding-inline: 3em; margin-inline: -3em; }
 html[data-perf-hidden] *, html[data-perf-hidden] *::before, html[data-perf-hidden] *::after { animation-play-state: paused !important; }
 `;
     return {
