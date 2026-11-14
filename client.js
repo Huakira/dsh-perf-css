@@ -1,5 +1,5 @@
 window.__ModuleLoader__.load({
-  id: '@local/perf-css',
+  id: '@huakirax/dsh-perf-css',
   factory() {
     const CSS = `
 html[data-perf-hidden] *, html[data-perf-hidden] *::before, html[data-perf-hidden] *::after { animation-play-state: paused !important; }
